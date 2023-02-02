@@ -1,0 +1,13 @@
+C:\Users\poornimashet\source\repos\BankingApplication1\BankingApplication1\bin\Debug\BankingApplication1.exe.config
+C:\Users\poornimashet\source\repos\BankingApplication1\BankingApplication1\bin\Debug\BankingApplication1.exe
+C:\Users\poornimashet\source\repos\BankingApplication1\BankingApplication1\bin\Debug\BankingApplication1.pdb
+C:\Users\poornimashet\source\repos\BankingApplication1\BankingApplication1\bin\Debug\Guna.UI2.dll
+C:\Users\poornimashet\source\repos\BankingApplication1\BankingApplication1\obj\Debug\BankingApplication1.csproj.AssemblyReference.cache
+C:\Users\poornimashet\source\repos\BankingApplication1\BankingApplication1\obj\Debug\BankingApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\poornimashet\source\repos\BankingApplication1\BankingApplication1\obj\Debug\BankingApplication1.Form1.resources
+C:\Users\poornimashet\source\repos\BankingApplication1\BankingApplication1\obj\Debug\BankingApplication1.Properties.Resources.resources
+C:\Users\poornimashet\source\repos\BankingApplication1\BankingApplication1\obj\Debug\BankingApplication1.csproj.GenerateResource.cache
+C:\Users\poornimashet\source\repos\BankingApplication1\BankingApplication1\obj\Debug\BankingApplication1.csproj.CoreCompileInputs.cache
+C:\Users\poornimashet\source\repos\BankingApplication1\BankingApplication1\obj\Debug\BankingApplication1.csproj.CopyComplete
+C:\Users\poornimashet\source\repos\BankingApplication1\BankingApplication1\obj\Debug\BankingApplication1.exe
+C:\Users\poornimashet\source\repos\BankingApplication1\BankingApplication1\obj\Debug\BankingApplication1.pdb
